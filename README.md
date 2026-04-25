@@ -1,3 +1,4 @@
+<img width="1036" height="1582" alt="IMG_3988" src="https://github.com/user-attachments/assets/9b55056d-647d-4d88-bcd3-5cdf67094f93" />
 # Hi there, I'm Nobu42 
 
 ###  About Me
