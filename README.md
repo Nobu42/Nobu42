@@ -2,7 +2,7 @@
 
 ###  About Me
 料理人として25年間、包丁を握り続けてきました。
-42歳でIT業界へ転身し、現在はインフラエンジニアとして「OSの深淵」と「クラウドの自動化」を探求しています。
+42歳で生まれて初めてコンピュータに触れ、現在はインフラエンジニアとして「OSの深淵」と「クラウドの自動化」を探求しています。
 
 -  **Focus**: Linux Kernel internals / Infrastructure as Code (Terraform) / System Programming (C)
 -  **Editor**: Vim 
