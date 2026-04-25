@@ -15,7 +15,7 @@
 『Unix/Linuxプログラミング理論と実践』の徹底検証。
 標準コマンド（ls, more, pwd等）をシステムコールレベルから再実装し、OSの動作原理を解明しています。
 
-####  [Terraform_IaC_Lab](https://github.com/Nobu42/Terraform_IaC_Lab)
+####  [Terraform_IaC_Lab](https://github.com/Nobu42/terraform_iac_Lab)
 Mac(M4) / Raspberry Pi 4 / Ubuntu を組み合わせたハイブリッド検証環境。
 LocalStackを用いたAWSのシミュレーションと、Terraformによるインフラ自動化を実践しています。
 
